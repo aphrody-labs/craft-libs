@@ -1809,8 +1809,10 @@ dependencies = [
 name = "craft-develop"
 version = "0.1.0"
 dependencies = [
+ "craft-color",
  "craft-color-transform",
  "craft-develop-model",
+ "craft-geom",
  "craft-render-parity",
  "proptest",
  "rayon",
